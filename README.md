@@ -1,6 +1,6 @@
 # Arcane-Marvel-Rivals-Hack
 Marvel Rivals Hack - Aimbot, Esp, Radar, Misc | Win 10/11 | 2025
-# 🎯 CS2 Assist Framework
+# 🎯 Marvel Rivals Assist Framework
 
 A modular enhancement framework for **Marvel Rivals**, offering advanced visualization, aiming assistance, and in-game automation features — designed for research, prototyping, and personalization of user input and feedback systems 2025.
 
